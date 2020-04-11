@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\Git\\Git\\Git.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Udemy\\Curso C# Completo POO + Projectos\\Git\\Git\\Git.csproj",
       "projectName": "Git",
-      "projectPath": "C:\\Users\\ASUS\\source\\repos\\Git\\Git\\Git.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\Udemy\\Curso C# Completo POO + Projectos\\Git\\Git\\Git.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\source\\repos\\Git\\Git\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\Udemy\\Curso C# Completo POO + Projectos\\Git\\Git\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
